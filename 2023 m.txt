@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>İndirilebilir PDF</title>
+</head>
+<body>
+    <p><a href="https://www.dropbox.com/scl/fi/5g0wui5x7z8fd2ls24233/2023-PLANNER-MONDAY-START.pdf?rlkey=4f8s7mit8kldsdtxf0ghrq34m&dl=0">PDF dosyasını indir</a></p>
+</body>
+</html>
